@@ -6,3 +6,4 @@
 - ```npm install react```
 
 - linea para probar el git pull
+- se agrego linea 9
