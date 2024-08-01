@@ -4,3 +4,5 @@
 
 - Para ejecutar el sistema, en la terminal debes ejecutar el comando:
 - ```npm install react```
+
+- linea para probar el git pull
